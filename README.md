@@ -35,7 +35,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/h1CbuaA)' title='Codepath Project 1' width='' alt='Video Demo' />
+<img src='https://imgur.com/h1CbuaA' title='Codepath Project 1' width='' alt='Video Demo' />
 
 GIF created with ScreentoGif
 
